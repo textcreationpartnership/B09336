@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By Henry Keepe, formerly of New-Inn-Hall in the University of Oxford, gentleman-commoner, and now of the Inner-Temple London, esq having in the year 1681 published a small treatise by the way of Essay to a more compleat history of Westminster Abby ...</title>
+            <author>H. K. (Henry Keepe), 1652-1688.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09336</idno><idno type="EEBO-CITATION">61297049</idno>
+  <idno type="VID">180595</idno>
+  <idno type="EEBO-PROQUEST">2240860869</idno>
+  
+            <idno type="STC">Wing K125</idno>
+            <idno type="STC">ESTC R179312</idno>
+            <idno type="OCLC">61297049</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180595)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2836:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By Henry Keepe, formerly of New-Inn-Hall in the University of Oxford, gentleman-commoner, and now of the Inner-Temple London, esq having in the year 1681 published a small treatise by the way of Essay to a more compleat history of Westminster Abby ...</title>
+                  <author>H. K. (Henry Keepe), 1652-1688.</author>
+               </titleStmt>
+               <extent>1 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">H. K. --  (Henry Keepe), 1652-1688.</term>
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="subscription_appeal">
+            <pb facs="tcp:180595:1"/>
+            <byline>By HENRY KEEPE, formerly of New-Inn-Hall in the University of Oxford, Gentleman-Commoner, and now of the Inner-Temple London, Esq;.</byline>
+            <p>
+               <seg rend="decorInit">H</seg>Aving in the Year 1681. published a small Treatise, by way of <hi>Essay to a more compleat History of</hi> Westminster-Abby, (wherein little else was contained, than a bare Description of the Monuments themselves, with the Arms, Epitaphs, and Inscriptions) and finding the Impression to answer my expectation, by the <hi>Stationers</hi> speedy disposal of it: I have been earnestly pressed and intreated by some Persons of Worth and Learning to finish my larger Volume, <hi>Of the Ori<g ref="char:EOLhyphen"/>ginal of this Monastry,</hi> &amp;c. which for some years I have been extracting from <hi>Old Leiger-Books, Records, Deeds, Evidences, Manuscripts,</hi> and other <hi>Authentique Testimonies</hi> of our best <hi>Historians</hi> and <hi>Antiquaries.</hi> And altho' therein I have taken much pains, and am now endeavouring (in answer to my Friends intreaties) to compile and methodise the same: yet I do esteem a Work of this Nature (especially in this <hi>curious Age</hi>) Lame and Imperfect, unless those <hi>Noble Monuments</hi> and <hi>Sumptuous Tombs</hi> (with which this Church is richly adorn'd beyond all other Churches on this side the <hi>Alps</hi>) be brought to the eye, and the Views represented in most <hi>lively Sculptures.</hi> The Charge whereof becoming unsuitable (by bearing no proportion) to a private Un<g ref="char:EOLhyphen"/>dertaking, hath given me the occasion of thinking it convenient to inform all <hi>Noblemen</hi> and others of this my Design; and to request all those whose <hi>Ancestors</hi> or <hi>Relations</hi> have had the Honour to be Interr'd in this so Famous ABBY, and whose magnificent <hi>Tombs</hi> and <hi>Monuments</hi> are still remaining, That they would be pleas'd so far to preserve the Remembrance of them from the Ruines of <hi>Time, Sacriledge, Fire,</hi> or what other Accident may happen to deface them, as <hi>to be at the Expence of having the said Monuments and Tombs of their Ancestors Shadowed by the Originals, and finely Engraven on Copper-Plates:</hi> By which Act they will not only perpetuate the Memory of their Relations, but likewise Eternize Themselves, by leaving to Posterity so grateful a Memorial of them. And the AUTHOR of this <hi>History</hi> shall esteem himself extremely obliged to every such Person of Quality, who are willing to advance so laudable an Undertaking; Engaging moreover, to present such Noble <hi>Per<g ref="char:EOLhyphen"/>sonages</hi> with one of the said <hi>Books,</hi> as soon as finished, without any other Cost or Charges; as like<g ref="char:EOLhyphen"/>wise, to place his <hi>Coat of Arms,</hi> or <hi>Atchievement of Honour,</hi> on every such Plate, with some further Memorial, by way of acknowledgment.</p>
+            <p>And whereas many Persons of Honour (Lovers of Antiquity) who have no Ancestors or Relati<g ref="char:EOLhyphen"/>ons buried in this Church, may yet be desirous of preserving something worthy of Their Care to fu<g ref="char:EOLhyphen"/>ture Ages: These are therefore to let such Noble Personages know, That there be many ancient graceful <hi>Tombs</hi> and <hi>Monuments</hi> (of Persons of great Eminence) still remaining, whose Families are totally extinct; whereby they may have an ample Occasion, at this present, to perform such their desires; And for their better encouragement, proportionable to what Sum they shall please to be<g ref="char:EOLhyphen"/>stow, (provided the same be not under Three Pounds, two thirds whereof to be paid down, and the rest at the delivery of the <hi>Book</hi>) they shall be esteemed as Benefactors in <hi>Part,</hi> or in <hi>Whole,</hi> to some one <hi>Sculpture,</hi> with their <hi>Coat-Armour</hi> likewise placed thereon, and to be presented with a <hi>Book,</hi> equally with those whose Relations lie there Interr d.</p>
+            <p>Furthermore, for that the Author's intention is not to advantage himself any otherwise by those <hi>Sculptures</hi> and <hi>Engravings,</hi> than that they may serve to adorn his said <hi>Book,</hi> and to preserve the Fi<g ref="char:EOLhyphen"/>gures of such <hi>Monuments</hi> for the future: He is well contented that all Persons of Quality and Others (who are Willing to bestow any such <hi>Sculpture</hi> or <hi>Engravings</hi> on his said <hi>Book</hi>) be pleased to make use of what Artist they shall think fit, to perform the same, provided that those Plates bear propor<g ref="char:EOLhyphen"/>tion to the rest, and to the size of the said <hi>Book,</hi> and that they are done by <hi>Experienc'd Masters</hi>) not<g ref="char:EOLhyphen"/>withstanding he hath already been at the Trouble and Expence of having all the <hi>Monuments</hi> Sur<g ref="char:EOLhyphen"/>vey'd, and a Computation made (by the ablest Masters now among us in <hi>Draught</hi> and <hi>Sculpture</hi>) what the Cost and Charges of every particular <hi>Tomb</hi> and <hi>Monument</hi> will amount to; and that ac<g ref="char:EOLhyphen"/>cording to the most reasonable Rates they can be afforded at, as to the Method and Size proposed both for Copper, Drawing and Graving. And for the better Information of all Persons of Quality and Others, that are desirous to know who of their respective Families lie there Entombed: I shall refer them to my above-mentioned Printed Book, Entituled, MONUMENTA WESTMONASTE<g ref="char:EOLhyphen"/>RIENSIA; <hi>Or, A Concise History of</hi> Westminster-Abby. Sold by <hi>Thomas Dring</hi> at the <hi>Harrow,</hi> and <hi>Christopher Wilkinson</hi> at the <hi>Black-boy,</hi> Book-sellers, in <hi>Fleet-street</hi> nigh the <hi>Temple.</hi>
+            </p>
+            <pb facs="tcp:180595:2"/>
+            <p>For the Historical Part of this Work, it will be divided into Four Books, with an <hi>Appendix</hi> and <hi>double Table.</hi>
+            </p>
+            <p>The <hi>First Book</hi> is to comprehend all matters relating to the BUILDINGS; as, the several Ere<g ref="char:EOLhyphen"/>ctions and Reparations of the Church, Chapter-house, Cloisters, Library, Hall, School, Deans House, and other Offices belonging to the same; with the several Benefactions, Donations, Guifts, Endowments, and Priviledges granted thereto, distributed under the peculiar Heads of the ABBOTS, and other Governours thereof; By which many things (especially as to <hi>Time</hi>) will be regularly observed, and much Confusion avoided. And further, That each Chapter of this Book do end with the Death or Removal of the Abbot, or Chief Governour; and that the Chapter fol<g ref="char:EOLhyphen"/>lowing still begin with his Successor: having first given some Historical Account concerning the said Governour, time of his Death, place of Burial, Epitaph, <hi>&amp;c.</hi> Removal, Preferment, or De<g ref="char:EOLhyphen"/>position.</p>
+            <p>The <hi>Second Book</hi> is to contain divers Rules, Orders, Injunctions, Ceremonies, Priviledges, Oaths and Obligations to be observed and taken by the Governours, and those under their Care and Ju<g ref="char:EOLhyphen"/>risdiction; with the Installment of the Abbots, Introduction of the Monks, Bishop, Deans, Pre<g ref="char:EOLhyphen"/>bends, <hi>&amp;c.</hi> And a more singular Treatise than hath ever yet been published, of the Forms and Ceremonies used and practiced at the Solemn Inaugurations or Coronations of our KINGS and QUEENS, from the time of the SAXONS to this day. To which is added, The manner of Their Interments, and Funeral Solemnities, practiced in ancient time, with those of the Abbots and his Monks.</p>
+            <p>The <hi>Third Book</hi> shall specify all those Persons by Name Alphabetically, whom I have met with to be Interred here; whether KINGS, QUEENS, PRINCES of the Blood, DUKES, <hi>&amp;c.</hi> or other of the lesser NOBILITY, with Remarks on their Lives, Funeral-Pomps, <hi>Coenotaphs,</hi> Families, Matches, Issue, Genealogies, Paternal Coats of Arms, Places of Trust, Writings, or whatever else hath been found Remarkable concerning Them; wherein much variety of Delightful and Histo<g ref="char:EOLhyphen"/>rical Antiquity will appear.</p>
+            <p>The <hi>Fourth</hi> and <hi>Last Book</hi> will be wholly taken up with the CHAPPELS; To whom, and up<g ref="char:EOLhyphen"/>on what occasion, Dedicated; with all the Epitaphs, Elegies, Inscriptions, Tables, Coats of Arms, Banners, Bannerels, Pennons, Guideons, Helms, Crests, Supporters, Badges, Intaglio's, Cyphers, Motto's, or whatever else of that kind are remaining about the <hi>Tombs</hi> or <hi>Grave-stones.</hi> Together with, The lively Representation of all the <hi>Monuments</hi> themselves, curiously Design'd, and exactly Engraven in large Folio-Plates; with several Prospects and Views of the Church, Chappels, Pain<g ref="char:EOLhyphen"/>ted-Windows, Chapter-house, <hi>&amp;c.</hi> amounting to well nigh <hi>One hundred and Thirty;</hi> whereby this Work will be most Nobly Illustrated, far beyond any thing that hath ever yet been extant of this Nature; Which, by the Divine Assistance, shall be brought to Perfection in as short a time as it is possible for the Diligence of the Painter and the Care of the Graver to perform the same with Ex<g ref="char:EOLhyphen"/>actness; And that the Supply expected by those <hi>Persons of Quality</hi> who intend to be concern'd therein, be <hi>Sudden,</hi> and <hi>suitable to so Great an Undertaking.</hi>
+            </p>
+            <p>The <hi>APPENDIX</hi> is to give you the Copies of all those Deeds, Charters, Records, Evidences, and other Testimonies from whence the greatest Part of this Work is Extracted. And the TABLE being Two-fold, in the <hi>First</hi> will be found all those Persons by Name, in Alphabet, or by their Titles of Honour, who are mention'd in this Book; And in the <hi>Second,</hi> those things most worthy of Observation.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
